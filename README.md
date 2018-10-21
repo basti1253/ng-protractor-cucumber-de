@@ -1,3 +1,3 @@
 # angular protractor setup with cucumber 
 
-including mocha/chai-as-expected
+including mocha/chai-as-promised
